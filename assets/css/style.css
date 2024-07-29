@@ -1,0 +1,55 @@
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.form-card {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+#togglePassword {
+  cursor: pointer;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+#saveRecords{
+  width: 60%;
+}
+
+.anchor-tag {
+  text-decoration: none !important;
+  display: block;
+  cursor: pointer;
+}
+
+.container {
+  text-align: right;
+}
+.header-div a {
+  margin-left: 15px;
+  text-decoration: none !important;
+  cursor: pointer;
+}
+
+ .action-buttons {
+      display: none;
+      margin-top: 10px;
+  }
